@@ -1,0 +1,50 @@
+.wrapper {
+	padding: 25 px 15px 10px 60px;
+	background-color: #fff;
+	opacity: 0.6;
+	color: #000;
+	width: 800px;
+}
+
+h1 {
+	font-family: Optima, Garamond, Arial, Helvetica, serif;
+	text-align: center;
+	font-size: 40px;
+	line-height: 20px;
+}
+
+h2 {
+	font-family: Optima, Garamond, Arial, Helvetica, serif;
+	font-size: 25px;
+	text-align: center;
+
+}
+
+h3 {
+	font-family: Optima, Garamond, Arial, Helvetica, serif;
+	font-size: 17px;
+	margin-left: 5px;
+	margin-bottom: 15px;
+}
+
+li {
+	list-style-type: square;
+	font-family: Optima, Garamond, Arial, Helvetica, serif;
+	font-size: 14px;
+}
+
+.contact-information p {
+	line-height: 20px;
+	text-align: center;
+	font-family: Optima, Garamond, Arial, Helvetica, serif;
+	height: 40px;
+	border-bottom: 2px solid #7facaa;
+}
+
+.location p {
+	line-height: 0px;
+	height: 0px;
+	font-family: Optima, Garamond, Arial, Helvetica, serif;
+	font-size: 14px;
+	padding-left: 5px;
+}
